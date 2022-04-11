@@ -2,6 +2,5 @@
 
 Confusion Matrix
 
-[[17     5]
-
- [ 3     19]]
+[[17  &nbsp;&nbsp;   5] <br />
+ [ 3  &nbsp;&nbsp;   19]]
