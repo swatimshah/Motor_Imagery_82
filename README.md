@@ -2,8 +2,8 @@
 
 Confusion Matrix
 
-[[17  &nbsp;&nbsp;   5] <br />
- [ 3  &nbsp;&nbsp;   19]]
+&nbsp;&nbsp;&nbsp;&nbsp;[[17  &nbsp;&nbsp;   5] <br />
+&nbsp;&nbsp;&nbsp;&nbsp; [ 3  &nbsp;&nbsp;   19]]
 
 PCA Cumulative Variance Graph
 
