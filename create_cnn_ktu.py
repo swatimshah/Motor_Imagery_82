@@ -134,7 +134,7 @@ pyplot.show()
 
 model.save("/content/model_conv1d.h5")
 
-# load the saved model
+# load the best model saved by ModelCheckPoint
 saved_model = load_model('/content/best_model.h5')
 # evaluate the model
 _, train_acc = saved_model.evaluate(input, Y_train, verbose=1)
